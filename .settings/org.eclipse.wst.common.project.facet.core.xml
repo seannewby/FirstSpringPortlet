@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faceted-project>
+  <runtime name="wps.base.v61"/>
+  <fixed facet="jst.java"/>
+  <fixed facet="jst.web"/>
+  <installed facet="jsr.base" version="2.0"/>
+  <installed facet="jsr.portal" version="6.1"/>
+  <installed facet="jst.java" version="5.0"/>
+  <installed facet="jst.web" version="2.4"/>
+  <installed facet="com.ibm.websphere.coexistence.web" version="6.1"/>
+  <installed facet="com.ibm.websphere.extended.web" version="6.1"/>
+</faceted-project>

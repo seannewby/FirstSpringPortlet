@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><portlet-properties>
+    <portlet name="FirstSpringPortlet">
+        <property>
+            <name>DEFAULT_PAGE</name>
+            <value>/_FirstSpringPortlet/jsp/html/FirstSpringPortletView.jsp</value>
+        </property>
+    </portlet>
+</portlet-properties>
